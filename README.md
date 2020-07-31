@@ -1,4 +1,4 @@
-<img align="right" height="100" vspace="50px" src="https://github.com/inicolas69/inicolas69/blob/master/images/logo-text-grey.png?raw=true">  
+<img align="right" height="150" src="https://github.com/inicolas69/inicolas69/blob/master/images/logo-text-grey.png?raw=true">  
 
 # Hey ! Bienvenue sur mon profil GitHub !  
 ### Moi c'est Nicolas, développeur backend / full stack junior à la recherche d'un poste, si jamais vous avez ça sous la main !  
