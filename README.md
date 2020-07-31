@@ -6,7 +6,7 @@
 ## Je suis spécialisé en Ruby on Rails <img align="middle" vspace="10" height="100" src="https://github.com/inicolas69/inicolas69/blob/master/images/pngegg.png?raw=true">
 
 
-<img align="left" vspace="10" height="500" src="https://github.com/inicolas69/inicolas69/blob/master/images/DSCF0905.jpg?raw=true">
+<img align="left" height="500" src="https://github.com/inicolas69/inicolas69/blob/master/images/DSCF0905.jpg?raw=true">
 
 Here are some ideas to get you started:
 
