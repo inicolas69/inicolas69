@@ -1,6 +1,9 @@
-<img align="top" hspace="30%" height="250" src="https://github.com/inicolas69/inicolas69/blob/master/images/logo-text-grey.png?raw=true">
+<img align="left" height="100" src="https://github.com/inicolas69/inicolas69/blob/master/images/logo-text-grey.png?raw=true">
 
-### Hi there 👋
+### Hey ! Bienvenue sur mon profil GitHub !
+## Moi c'est Nicolas, développeur backend / full stack junior
+## Je suis spécialisé en Ruby on Rails <img align="right" height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FRuby&psig=AOvVaw3c3vsPJKzr4QPEXuFhRuHV&ust=1596294086644000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIi9pYLh9-oCFQAAAAAdAAAAABAD">
+
 
 Here are some ideas to get you started:
 
