@@ -1,7 +1,7 @@
-<img align="right" height="100" src="https://github.com/inicolas69/inicolas69/blob/master/images/logo-text-grey.png?raw=true">
+
 
 # Hey ! Bienvenue sur mon profil GitHub !  
-
+<img align="right" height="100" src="https://github.com/inicolas69/inicolas69/blob/master/images/logo-text-grey.png?raw=true">
 ### Moi c'est Nicolas, développeur backend / full stack junior à la recherche d'un poste, si jamais vous avez ça sous la main !   
 ### Je suis spécialisé en Ruby on Rails <img align="middle" height="100" src="https://github.com/inicolas69/inicolas69/blob/master/images/pngegg.png?raw=true">
 
