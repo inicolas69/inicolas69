@@ -2,8 +2,8 @@
 
 # Hey ! Bienvenue sur mon profil GitHub !  
 
-- Moi c'est Nicolas, développeur backend / full stack junior
-- Je suis spécialisé en Ruby on Rails <img height="30" src="https://github.com/inicolas69/inicolas69/blob/master/images/pngegg.png?raw=true">
+Moi c'est Nicolas, développeur backend / full stack junior
+Je suis spécialisé en Ruby on Rails <img align="bottom" height="50" src="https://github.com/inicolas69/inicolas69/blob/master/images/pngegg.png?raw=true">
 
 
 Here are some ideas to get you started:
