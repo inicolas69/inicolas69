@@ -16,7 +16,7 @@
 - 💻 [MarkdownApp](https://inicolas69.github.io/markdown-app/), une app assez simple, mais efficace ! Permettant de traduire du texte tapé en Markdown ! Qui m'a d'ailleurs pas mal aidé pour taper ce README 😉
 - 💬 [ChatApp](https://inicolas69.github.io/Chat-app/#/), petite app de chat instantanée, codée en React, avec une BDD Firebase.
 - 👨 [Mon portfolio](https://www.nicolasiniesta.com/), simple, basique, en HTML et CSS, mais plutot efficace 👌
-- 👨 [Mon LinkedIn](https://www.linkedin.com/in/nicolas-iniesta-417653b0/) au cas ou vous vouliez en savoir plus sur moi, ou que vous ayez une offre pour moi 🤷‍♂️
+- 🌐 [Mon LinkedIn](https://www.linkedin.com/in/nicolas-iniesta-417653b0/) au cas ou vous vouliez en savoir plus sur moi, ou que vous ayez une offre pour moi 🤷‍♂️
 - 📸 Sinon je suis aussi photographe depuis une dizaine d'année, alors voila mon [Instagram](https://www.instagram.com/piixn/) ou ma [Galerie](https://galerie.nicolasiniesta.com/)
 - Et pour finir, allez l'OL !  
 <img height="50" src="https://github.com/inicolas69/inicolas69/blob/master/images/ol.png?raw=true">
