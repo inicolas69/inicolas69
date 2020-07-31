@@ -10,7 +10,7 @@
 
 <img align="left" height="500" src="https://github.com/inicolas69/inicolas69/blob/master/images/DSCF0905.jpg?raw=true">
 
-### Pour vous faciliter le vie, voilà mes projets les plus aboutis :
+### Pour vous faciliter le vie, voilà mes projets les plus aboutis:
 
 - 🎬 [Gociné](https://www.gocine.club) --> Et son [repo](https://github.com/AmineNGB/Gocine), c'est un projet créé lors de mon bootcamp au Wagon Lyon, puis continué depuis, qui me facilite la vie pour toutes mes sorties au ciné avec des amis !
 - 🏡 [ScrapperHouse](https://github.com/jpheos/scrapper), petit projet fait en collaboration avec [Jpheos](https://github.com/jpheos), qui permet de scrapper les annonces immobilières de manière automatisée, et qui l'avertit avec une notif sur son téléphone dès qu'une nouvelle est dispo !
