@@ -1,3 +1,5 @@
+<img align="top" hspace="30%" height="250" src="https://github.com/inicolas69/inicolas69/blob/master/images/logo-text-grey.png?raw=true">
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
