@@ -1,4 +1,4 @@
-<img align="" height="100" src="https://github.com/inicolas69/inicolas69/blob/master/images/logo-text-grey.png?raw=true">
+<img align="right" height="100" src="https://github.com/inicolas69/inicolas69/blob/master/images/logo-text-grey.png?raw=true">
 
 # Hey ! Bienvenue sur mon profil GitHub !  
 
