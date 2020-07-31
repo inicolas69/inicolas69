@@ -18,5 +18,4 @@ Pour vous faciliter le vie, voilà mes projets les plus aboutis :
 - 💬 [ChatApp](https://github.com/inicolas69/Chat-app), petite app de chat instantanée, codée en React, avec une BDD Firebase.
 - 👨 [Mon portfolio](https://www.nicolasiniesta.com/), simple, basique, en HTML et CSS, mais plutot efficace 👌
 - 📸 Sinon je suis aussi photographe depuis une dizaine d'année, alors voila mon [Instagram](https://www.instagram.com/piixn/) ou ma [Galerie](https://galerie.nicolasiniesta.com/)
-- Et pour finir, allez l'OL !  
-<img align="left" height="50" src="https://github.com/inicolas69/inicolas69/blob/master/images/ol.png?raw=true">
+- Et pour finir, allez l'OL ! <img align="right" height="50" src="https://github.com/inicolas69/inicolas69/blob/master/images/ol.png?raw=true">
