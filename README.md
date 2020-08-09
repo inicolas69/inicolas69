@@ -22,5 +22,5 @@
 <img height="50" src="https://github.com/inicolas69/inicolas69/blob/master/images/ol.png?raw=true">
 
 ![Nicolas Iniesta's github stats](https://github-readme-stats.vercel.app/api?username=inicolas69&show_icons=true&theme=dark&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inicolas69&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inicolas69&layout=compact&theme=dark&card_width=150)
 
