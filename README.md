@@ -20,3 +20,5 @@
 - 📸 Sinon je suis aussi photographe depuis une dizaine d'année, alors voila mon [Instagram](https://www.instagram.com/piixn/) ou ma [Galerie](https://galerie.nicolasiniesta.com/)
 - Et pour finir, allez l'OL !  
 <img height="50" src="https://github.com/inicolas69/inicolas69/blob/master/images/ol.png?raw=true">
+
+[![Nicolas Iniesta's github stats](https://github-readme-stats.vercel.app/api?username=inicolas69&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
