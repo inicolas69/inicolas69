@@ -28,6 +28,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=inicolas69&show_icons=true&theme=dark&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inicolas69&layout=compact&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inicolas69&theme=dark" />
 </a>
 
