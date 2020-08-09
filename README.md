@@ -21,6 +21,13 @@
 - Et pour finir, allez l'OL !  
 <img height="50" src="https://github.com/inicolas69/inicolas69/blob/master/images/ol.png?raw=true">
 
-![Nicolas Iniesta's github stats](https://github-readme-stats.vercel.app/api?username=inicolas69&show_icons=true&theme=dark&count_private=true&card_width=450)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inicolas69&layout=compact&theme=dark&card_width=450)
+![Nicolas Iniesta's github stats](https://github-readme-stats.vercel.app/api?username=inicolas69&show_icons=true&theme=dark&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inicolas69&layout=compact&theme=dark&card_width=450)  
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=inicolas69&show_icons=true&theme=dark&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inicolas69&layout=compact&theme=dark" />
+</a>
 
