@@ -24,8 +24,7 @@
 - 👨 [Mon portfolio](https://www.nicolasiniesta.com/), simple, basique, en HTML et CSS, mais plutot efficace 👌
 - 🌐 [Mon LinkedIn](https://www.linkedin.com/in/nicolas-iniesta-417653b0/) au cas ou vous vouliez en savoir plus sur moi, ou que vous ayez une offre pour moi 🤷‍♂️
 - 📸 Sinon je suis aussi photographe depuis une dizaine d'année, alors voila mon [Instagram](https://www.instagram.com/piixn/) ou ma [Galerie](https://galerie.nicolasiniesta.com/)
-- Et pour finir, allez l'OL !  
-<img height="50" src="https://github.com/inicolas69/inicolas69/blob/master/images/ol.png?raw=true">  
+- Et pour finir, allez l'OL ! <img height="30" src="https://github.com/inicolas69/inicolas69/blob/master/images/ol.png?raw=true">  
 
 <img align="left" src="https://github-readme-stats.inicolas69.vercel.app/api/top-langs/?username=inicolas69&theme=dark" />
 <img align="left" src="https://github-readme-stats.inicolas69.vercel.app/api?username=inicolas69&show_icons=true&theme=dark&count_private=true" />
