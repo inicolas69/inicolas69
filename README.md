@@ -2,9 +2,9 @@
 
 # Hey ! Bienvenue sur mon profil GitHub !  
 ### Moi c'est Nicolas, développeur backend / full stack junior à la recherche d'un poste, si jamais vous avez ça sous la main !  
-### Je suis spécialisé en Ruby on Rails <img align="middle" height="100" src="https://github.com/inicolas69/inicolas69/blob/master/images/pngegg.png?raw=true">  
+### Je suis spécialisé en Ruby on Rails <img alt="Node.js" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 
-#### J'ai aussi quelques compétences en NodeJS et ReactJS ! <img align="middle" height="50" src="https://github.com/inicolas69/inicolas69/blob/master/images/reactjs.png?raw=true"><img align="middle" height="40" src="https://github.com/inicolas69/inicolas69/blob/master/images/nodejs.png?raw=true">
+#### J'ai aussi quelques compétences en NodeJS et ReactJS ! <img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img alt="ReactJS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 
 <img align="left" height="500" src="https://github.com/inicolas69/inicolas69/blob/master/images/DSCF0905.jpg?raw=true">
