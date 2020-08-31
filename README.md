@@ -27,9 +27,5 @@
 - Et pour finir, allez l'OL !  
 <img height="50" src="https://github.com/inicolas69/inicolas69/blob/master/images/ol.png?raw=true">  
 
-<a href="https://github-readme-stats.inicolas69.vercel.app/api/top-langs/?username=inicolas69&theme=dark">
-  <img align="left" src="https://github-readme-stats.inicolas69.vercel.app/api/top-langs/?username=inicolas69&theme=dark" />
-</a>  
-<a href="https://github-readme-stats.inicolas69.vercel.app/api?username=inicolas69&show_icons=true&theme=dark&count_private=true">
-  <img align="left" src="https://github-readme-stats.inicolas69.vercel.app/api?username=inicolas69&show_icons=true&theme=dark&count_private=true" />
-</a>
+<img align="left" src="https://github-readme-stats.inicolas69.vercel.app/api/top-langs/?username=inicolas69&theme=dark" />
+<img align="left" src="https://github-readme-stats.inicolas69.vercel.app/api?username=inicolas69&show_icons=true&theme=dark&count_private=true" />
