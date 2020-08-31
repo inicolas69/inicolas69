@@ -1,3 +1,6 @@
+[![Twitter Follow](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piixn/)
+
+
 <img align="right" height="150" src="https://github.com/inicolas69/inicolas69/blob/master/images/logo-text-grey.png?raw=true">  
 
 # Hey ! Bienvenue sur mon profil GitHub !  
@@ -25,6 +28,3 @@
 <a href="https://github-readme-stats.vercel.app/api?username=inicolas69&show_icons=true&theme=dark&count_private=true">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=inicolas69&show_icons=true&theme=dark&count_private=true" />
 </a>
-
-
-[![Twitter Follow](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piixn/)
