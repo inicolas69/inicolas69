@@ -2,12 +2,9 @@
 
 # Hey ! Bienvenue sur mon profil GitHub !  
 ### Moi c'est Nicolas, développeur backend / full stack junior à la recherche d'un poste, si jamais vous avez ça sous la main !  
-### Je suis spécialisé en Ruby on Rails <img alt="Node.js" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
+### Je suis spécialisé en Ruby on Rails <img alt="Node.js" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 
 #### J'ai aussi quelques compétences en NodeJS et ReactJS ! <img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img alt="ReactJS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-
-<img align="left" height="500" src="https://github.com/inicolas69/inicolas69/blob/master/images/DSCF0905.jpg?raw=true">
 
 ### Pour vous faciliter la vie, voilà mes projets les plus aboutis, ou les endroits où me retrouver:
 
@@ -28,3 +25,6 @@
 <a href="https://github-readme-stats.vercel.app/api?username=inicolas69&show_icons=true&theme=dark&count_private=true">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=inicolas69&show_icons=true&theme=dark&count_private=true" />
 </a>
+
+
+[![Twitter Follow](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piixn/)
