@@ -6,6 +6,7 @@
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piixn/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-iniesta-417653b0/)
+[![Mail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:inicolas69@gmail.com)
 
 <img align="right" height="150" src="https://github.com/inicolas69/inicolas69/blob/master/images/logo-text-grey.png?raw=true">  
 
