@@ -16,7 +16,7 @@
 
 #### J'ai aussi quelques compétences en NodeJS et ReactJS ! <img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img alt="ReactJS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-### Pour vous faciliter la vie, voilà mes projets les plus aboutis, ou les endroits où me retrouver:
+### Pour vous faciliter la vie, voilà mes projets les plus aboutis, et les endroits où me retrouver:
 
 - 🎬 [Gociné](https://www.gocine.club) --> Et son [repo](https://github.com/AmineNGB/Gocine), c'est un projet créé lors de mon bootcamp au Wagon Lyon, puis continué depuis, qui me facilite la vie pour toutes mes sorties au ciné avec des amis !
 - 🏡 [ScrapperHouse](https://github.com/jpheos/scrapper), petit projet fait en collaboration avec [Jpheos](https://github.com/jpheos), qui permet de scrapper les annonces immobilières de manière automatisée, et qui l'avertit avec une notif sur son téléphone si une nouvelle est dispo !
