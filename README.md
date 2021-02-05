@@ -18,7 +18,7 @@
 
 ### Pour vous faciliter la vie, voilà mes projets les plus aboutis, et les endroits où me retrouver:
 
-- 🎬 [Gociné](https://www.gocine.club) --> Et son [repo](https://github.com/AmineNGB/Gocine), c'est un projet créé lors de mon bootcamp au Wagon Lyon, puis continué depuis, qui me facilite la vie pour toutes mes sorties au ciné avec des amis !
+- 🎬 [Gociné](http://www.gocine.club) --> Et son [repo](https://github.com/AmineNGB/Gocine), c'est un projet créé lors de mon bootcamp au Wagon Lyon, puis continué depuis, qui me facilite la vie pour toutes mes sorties au ciné avec des amis !
 - 🏡 [ScrapperHouse](https://github.com/jpheos/scrapper), petit projet fait en collaboration avec [Jpheos](https://github.com/jpheos), qui permet de scrapper les annonces immobilières de manière automatisée, et qui l'avertit avec une notif sur son téléphone si une nouvelle est dispo !
 - 💻 [MarkdownApp](https://inicolas69.github.io/markdown-app/), une app assez simple, mais efficace ! Permettant de traduire du texte tapé en Markdown ! Qui m'a d'ailleurs pas mal aidé pour taper ce README 😉
 - 💬 [ChatApp](https://inicolas69.github.io/Chat-app/#/), petite app de chat instantanée, codée en React, avec une BDD Firebase.
