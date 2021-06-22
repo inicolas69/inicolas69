@@ -11,7 +11,7 @@
 <img align="right" height="150" src="https://github.com/inicolas69/inicolas69/blob/master/images/logo-text-grey.png?raw=true">  
 
 # Hey ! Bienvenue sur mon profil GitHub !  
-### Moi c'est Nicolas, développeur backend / full stack junior à la recherche d'un poste, si jamais vous avez ça sous la main !  
+### Moi c'est Nicolas, développeur backend / full stack chez [WeDressFair](https://www.wedressfair.fr/) !  
 ### Je suis spécialisé en Ruby on Rails <img alt="Node.js" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 
 #### J'ai aussi quelques compétences en NodeJS et ReactJS ! <img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img alt="ReactJS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
